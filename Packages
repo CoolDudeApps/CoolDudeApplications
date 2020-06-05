@@ -1,4 +1,4 @@
-Package: https://github.com/CoolDudeApps/CoolDudeApplications.git
+Package: com.supermamon.newpackage
 Name: Relaxxx
 Depends: mobilesubstrate
 Version: 1.0
@@ -8,7 +8,7 @@ Maintainer: CoolDude
 Author: CoolDude
 Section: Applications
 Filename: ./debs/Relaxxx.deb
-Depiction: https://github.com/CoolDudeApps/CoolDudeApplications.git
+Depiction: https://cooldudeapps.github.io/CoolDudeApplications/depictions/?p=com.supermamon.newpackage
 Size: 7092
 MD5sum: 86d3a88803b216898328479f282dc988
 
