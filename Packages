@@ -6,7 +6,7 @@ Architecture: iphoneos-arm
 Description: Just relaxxx my friend
 Maintainer: CoolDude
 Author: CoolDude
-Section: Tweaks
+Section: Applications
 Filename: ./debs/Relaxxx.deb
 Depiction: https://cooldudeapps.github.io/CoolDudeApplications/depictions/Relaxxx
 Size: 7092
