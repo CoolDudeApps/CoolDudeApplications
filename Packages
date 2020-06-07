@@ -1,14 +1,13 @@
-Package: com.supermamon.newpackage
+Package: com.supermamon.oldpackage
 Name: Relaxxx
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Just relaxxx my friend
 Maintainer: CoolDude
-Author: CoolDude
+Author: CoolDudeApps
 Section: Applications
-Filename: ./debs/Relaxxx.deb
+Filename: ./debs/relaxxx.deb
 Depiction: https://cooldudeapps.github.io/CoolDudeApplications/depictions/?p=com.supermamon.newpackage
-Size: 9056
-MD5sum: 569305b4c9a94af48c419f2a71e6adf7
-
+Size: 72852
+MD5sum: 21e62e4d5f3082742e04feee46cf7b86
