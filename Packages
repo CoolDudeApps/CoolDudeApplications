@@ -7,7 +7,7 @@ Description: Just relaxxx my friend
 Maintainer: CoolDude
 Author: CoolDudeApps
 Section: Applications
-Filename: ./debs/relaxxx.deb
-Depiction: https://cooldudeapps.github.io/CoolDudeApplications/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.supermamon.oldpackage.deb
+Depiction: https://cooldudeapps.github.io/CoolDudeApplications/depictions/?p=com.supermamon.oldpackage
 Size: 72852
 MD5sum: 21e62e4d5f3082742e04feee46cf7b86
